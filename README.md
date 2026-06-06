@@ -13,3 +13,4 @@ A Power BI dashboard analyzing Spotify listening data.
 - Data Visualization
 
 ## Dashboard Preview
+dashboard-overview.png
